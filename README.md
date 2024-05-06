@@ -25,4 +25,4 @@
 ## 備考
 - CSS設計はFLOCSS( https://github.com/hiloki/flocss )を採用
 - PCファースト
-- rem記述を前提# gulp-dev_WordPress_FLOCSS_PCtoSP
+- rem記述を前提
